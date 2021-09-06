@@ -1,0 +1,1 @@
+In my first year at **University of Bath**, I got to grips with **MatLab** and **R** for the first time. This was when I first discovered my passion for programming and recognised the applications of it.
