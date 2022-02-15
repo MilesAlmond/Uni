@@ -1,1 +1,1 @@
-In my first year at **University of Bath**, I got to grips with **MatLab** and **R** for the first time. This solidified my passion for programming and recognised the applications of it.
+In my first year at **University of Bath**, I got to grips with **MatLab** and **R** for the first time. This solidified my passion for programming and I was able to further recognise the applications of it.
