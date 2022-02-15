@@ -1,0 +1,1 @@
+This coursework required us to crack a permutation cipher using a frequency attack. This was a group programming project (groups of 4), and I took the role of team lead. This was my first real experience in leading a team and so it was a very useful and exciting experience for me that I felt I got a lot out of. In the end we did very well, with a grade of 97%.
